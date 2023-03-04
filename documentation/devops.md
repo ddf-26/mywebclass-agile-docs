@@ -5,7 +5,7 @@
 * Define the team roles and responsibilities, and allocate resources as needed.
 * Use the lean methodology to identify and prioritize the most valuable features that provide the most benefit to users.
 2. Development:
-* Use a version control system such as Git to manage source code and track changes.
+* Use Git as the version control system to manage source code and track changes.
 * Use agile development practices such as sprint planning, daily stand-ups, and retrospectives to ensure that the team is working efficiently and effectively.
 * Use a continuous integration and delivery (CI/CD) pipeline to automate the build, test, and deployment process.
 3. Testing:
