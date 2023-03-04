@@ -58,7 +58,7 @@ and find the information I need.
 * Incorporate user-friendly features and accessibility for people with disabilities.
 * Choose a visually appealing design that is consistent across all pages.
 
-## MVP Epic
+### MVP Epic
 ### Epic 2: Define MVP Requirements
 * User Story 1: As a product manager, I want to create a list of basic features that the legal web template must have in order to meet the user's needs.
 ### Epic 1: Develop MVP
