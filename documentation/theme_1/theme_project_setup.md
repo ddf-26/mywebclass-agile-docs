@@ -44,8 +44,8 @@ from anywhere and on any device.
 and find the information I need.
 * User Story 4: As a developer, I want to ensure the legal web template is deployed and running smoothly.
 ### Epic 2: Tests
-* As a website owner, I want the website to comply with W3C validation standards, so that the website is accessible to all users and can be easily maintained.
-* As a website owner, I want the website to comply with GDPR regulations, so that user data is protected and the website is legally compliant.
+* User Story 1: As a website owner, I want the website to comply with W3C validation standards, so that the website is accessible to all users and can be easily maintained.
+* User Story 2: As a website owner, I want the website to comply with GDPR regulations, so that user data is protected and the website is legally compliant.
 #### Tasks:
 * Minimize the number of HTTP requests to improve the speed and performance of the template.
 * Optimize images to reduce their file size and improve page load times.
