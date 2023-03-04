@@ -59,6 +59,7 @@ and find the information I need.
 * Use a web development tool or content management system to design the template.
 * Incorporate user-friendly features and accessibility for people with disabilities.
 * Choose a visually appealing design that is consistent across all pages.
+* Use meta tags for SEO optimization
 
 ### MVP Epic
 ### Epic 1: Define MVP Requirements
