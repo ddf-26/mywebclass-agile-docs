@@ -16,6 +16,7 @@
 4. Deployment:
 * Continuously integrate code changes into the shared repository, and trigger automated tests.
 * Use blue-green deployment to minimize downtime and ensure that the application is always available.
+* Use GitHub Pages as a deployment automation tool.
 5. Maintenance:
 * Conduct regular maintenance tasks such as upgrading dependencies, fixing bugs, and updating security patches.
 * Use monitoring and logging tools to track performance and user behavior, and use the data to make data-driven decisions to improve the application.
