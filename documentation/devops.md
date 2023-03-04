@@ -21,4 +21,4 @@
 * Conduct regular maintenance tasks such as upgrading dependencies, fixing bugs, and updating security patches.
 * Use monitoring and logging tools to track performance and user behavior, and use the data to make data-driven decisions to improve the application.
 * Continuously improve the application based on user feedback and business requirements.
-* Use agile methodologies such as sprint planning, retrospectives, and user feedback to continuously improve the application.
+* Use agile methodologies such as sprint planning, retrospectives, and user and team feedback to continuously improve the application.

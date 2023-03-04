@@ -64,19 +64,23 @@ and find the information I need.
 ### MVP Epic
 ### Epic 1: Define MVP Requirements
 * User Story 1: As a product manager, I want to create a list of basic features that the legal web template must have in order to meet the user's needs.
+* User Story 2: As a UX designer, I want to create wireframes of the MVP that we can use to get feedback from users, team members, and stakeholders.
 ### Epic 2: Develop MVP
 * User Story 1: As a front-end developer, I want to build a basic layout and design for the legal web template.
 * User Story 2: As a back-end developer, I want to integrate user authentication and authorization into the web template.
 * User Story 3: As a developer, I want to build basic form templates for legal documents.
 ### Epic 3: Test MVP
 * User Story 1: As a UX researcher, I want to conduct usability tests on the MVP to ensure it meets user needs.
+* User Story 2: As a product manager, I want to gather feedback from users, team members, and stakeholders to refine the MVP and prioritize future features.
 #### Tasks:
 * Conduct user research to identify the key features and functionality required for the MVP
+* Conducting surveys and interviews with potential users
 * Analyzing user research data to develop user personas
 * Define the MVP scope and prioritize features based on user needs and technical feasibility
 * Conducting usability tests on the MVP
 * Creating wireframes of the MVP
 * Develop the MVP using an agile development approach, focusing on core features and functionality first
+* Gathering feedback from users, team members, and stakeholders to refine the MVP
 
 ### Maintenance Epic
 ### Epic 1: Maintenance
