@@ -89,4 +89,4 @@ and find the information I need.
 * Creating a release plan and coordinating with the development team to launch the legal web template
 * Monitoring the legal web template for bugs and issues and fixing them promptly
 * Prioritizing maintenance tasks based on impact on users and business goals
-* Implementing automated testing and monitoring tools to ensure the legal web template stays functional and up-to-date.
+* Implementing automated testing and monitoring tools to ensure the legal web template stays functional and up-to-date
