@@ -1,5 +1,9 @@
 # MyWebClass.Org Project - Agile Documentation Assignment
 
+## My Documentation
+* [Project Setup](documentation/theme_1/theme_project_setup.md)
+* [DeVops](documentation/devops.md)
+
 ## Overview
 
 For this assignment, you need to develop an initial draft of project documentation based on the principles of the [Agile
