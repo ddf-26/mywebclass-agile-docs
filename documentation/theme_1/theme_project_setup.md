@@ -70,12 +70,12 @@ and find the information I need.
 ### Epic 3: Test MVP
 * User Story 1: As a UX researcher, I want to conduct usability tests on the MVP to ensure it meets user needs.
 #### Tasks:
-* Conduct user research to identify the key features and functionality required for the MVP.
+* Conduct user research to identify the key features and functionality required for the MVP
 * Analyzing user research data to develop user personas
-* Define the MVP scope and prioritize features based on user needs and technical feasibility.
+* Define the MVP scope and prioritize features based on user needs and technical feasibility
 * Conducting usability tests on the MVP
 * Creating wireframes of the MVP
-* Develop the MVP using an agile development approach, focusing on core features and functionality first.
+* Develop the MVP using an agile development approach, focusing on core features and functionality first
 
 ### Maintenance Epic
 ### Epic 1: Maintenance
